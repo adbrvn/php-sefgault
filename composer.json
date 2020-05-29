@@ -1,0 +1,14 @@
+{
+    "name": "adbrvn/php-sefgault-research",
+    "authors": [
+        {
+            "name": "Alexander Dubrovin",
+            "email": "adbrvn@gmail.com"
+        }
+    ],
+    "autoload"     : {
+        "psr-4"    : {
+            "sj\\tapi\\": "yii/protected/modules/tapi"
+	}
+    }
+}
